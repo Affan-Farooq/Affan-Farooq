@@ -63,4 +63,4 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/) &nbsp;
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/) &nbsp;
 [![HackerRank](https://img.shields.io/badge/-HackerRank-1C5F39?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/) &nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=globe)](https://www.youtube.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-808080?style=flat-square&logo=globe)](https://www.youtube.com/)
