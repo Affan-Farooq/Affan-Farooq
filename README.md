@@ -25,6 +25,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
+![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell)
+![Prolog](https://img.shields.io/badge/-Prolog-black?style=flat-square&logo=prolog)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 ### Frameworks/Libraries
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -32,8 +38,11 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![AngularJS](https://img.shields.io/badge/-AngularJS-black?style=flat-square&logo=angularjs)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 
 ### Other
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat-square&logo=microsoft-office)
@@ -41,22 +50,22 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![API](https://img.shields.io/badge/-API-black?style=flat-square&logo=swagger)
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-black?style=flat-square&logo=servicenow)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visual-studio)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Apache](https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
+![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square)
+![AGILE](https://img.shields.io/badge/-AGILE-black?style=flat-square)
+![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=devops)
+![DSA](https://img.shields.io/badge/-DSA-black?style=flat-square)
+![OS](https://img.shields.io/badge/-OS-black?style=flat-square)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-black?style=flat-square)
 
 ## Connect with Me
 - [LinkedIn](https://www.google.com/)
-
-<!--
-**Affan-Farooq/Affan-Farooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
