@@ -58,6 +58,7 @@
 
 ## Connect with Me
 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/affanfarooq/) &nbsp;
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/) &nbsp;
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/) &nbsp;
