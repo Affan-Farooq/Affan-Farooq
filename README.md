@@ -9,9 +9,9 @@
 - 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
 
 ## Experience
-- **Design Team Member** | Queen's Data Analytics Association - [QDAA](https://qdaa.github.io)
-- **Full Stack Engineering Intern** | Cooddle, Incorporated
-- **Secondary Education Coding Mentor** | WDHS
+- **Design Team Member**  |  Queen's Data Analytics Association - [QDAA](https://qdaa.github.io)
+- **Full Stack Engineering Intern**  |  Cooddle, Incorporated
+- **Secondary Education Coding Mentor**  |  WDHS
 
 ## My Skills
 ### Languages
