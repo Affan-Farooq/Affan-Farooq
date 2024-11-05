@@ -11,7 +11,7 @@
 ## Experience
 - **Design Team Member**  |  Queen's Data Analytics Association - [QDAA](https://qdaa.github.io)
 - **Full Stack Engineering Intern**  |  Cooddle, Incorporated
-- **Secondary Education Coding Mentor**  |  WDHS
+- **Secondary Education Coding Mentor**  |  Waterdown District High School
 
 ## My Skills
 ### Languages
