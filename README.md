@@ -57,4 +57,4 @@
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.google.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/affanfarooq/)
