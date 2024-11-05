@@ -1,11 +1,12 @@
 # Hello, I'm Affan! 👋
 
 ## About Me
-- 🌱 I’m currently in my **third year of Computer Science, specializing in Software Design at Queen's University**.
-- 🤔 I’m currently looking for a 12-month internship starting May 2025!
-- 💬 I'm really interested in learning more about software engineering!
+- 🌱 I’m currently in my **third year of Computer Science, specializing in Software Design at Queen's University School of Computing**.
+- 🤔 I'm currently seeking a 12- to 16-month internship, with availability to start as early as January 2025 or in May 2025.
+- 💬 I'm really interested in learning more about software engineering and the mathematical theory underpinning contemporary computation!
+- 📱 My interests encompass **full stack development, DevOps, cloud computing, AI/ML, distributed systems, data science, and systems programming**.  
 - 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
-- ⚡ Fun fact: **I enjoy reading, running, philosophy, and trying out new foods!**
+- ⚡ Fun fact(s): **I am fond of reading, running, philosophy, and solving novel & nuanced challenges!**
 
 ## Experience
 - **Position** @ Organization - [Link](https://www.google.com/)
