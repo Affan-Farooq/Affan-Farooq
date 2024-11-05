@@ -9,7 +9,7 @@
 - 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
 
 ## Experience
-- **Full Stack Engineering Intern** @ Cooddle Childcare and Early Childhood Development Services Inc.
+- **Full Stack Engineering Intern** @ Cooddle, Incorporated
 - **Design Team Member** @ Queen's University Data Analytics Association - [QDAA](https://qdaa.github.io)
 
 ## My Skills
