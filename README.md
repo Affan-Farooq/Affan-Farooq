@@ -9,11 +9,8 @@
 - 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
 
 ## Experience
-- **Position** @ Organization - [Link](https://www.google.com/)
-- **Position** @ Organization - [Link](https://www.google.com/)
-- **Position** @ Organization - [Link](https://www.google.com/)
-- **Position** @ Organization - [Link](https://www.google.com/)
-- **Position** @ Organization - [Link](https://www.google.com/)
+- **Full Stack Engineering Intern** @ Cooddle Childcare and Early Childhood Development Services Inc.
+- **Design Team Member** @ Queen's University Data Analytics Association - [QDAA](https://qdaa.github.io)
 
 ## My Skills
 ### Languages
