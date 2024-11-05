@@ -58,9 +58,9 @@
 
 ## Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/affanfarooq/)
-- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/)
-- [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/)
-- [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=internet-explorer)](https://www.youtube.com/)
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/affanfarooq/)
+* [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/)
+* [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/)
+* [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/)
+* [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=internet-explorer)](https://www.youtube.com/)
 
