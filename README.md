@@ -5,7 +5,7 @@
 ## About Me
 - 🌱 I'm an **undergraduate student of Computer Science, specializing in Software Design at Queen's School of Computing**.
 - 🤔 I'm currently seeking a 12- to 16-month internship, with availability to start as early as January 2025 or in May 2025!
-- 💬 I'm interested in learning about software engineering and the mathematical theory behind contemporary computation!
+- 🧠 I'm interested in learning about software engineering and the mathematical theory behind contemporary computation!
 - 📱 My interests: **full stack engineering, DevOps, cloud computing, distributed systems, AI/ML, and data science**.  
 - ⚡ Fun fact(s): **I am fond of reading, running, philosophy, and solving novel & nuanced challenges!**
 - 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
