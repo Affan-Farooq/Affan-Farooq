@@ -23,6 +23,7 @@
 - **Full Stack Engineering Intern**  |  Cooddle, Incorporated
 - **Secondary Education Coding Mentor**  |  Waterdown District High School
 - **First Place, Waterloo Gauss Math Contest**  |  John William Boich Public School
+- **Awarded Bronze, Halton Cross Country Meet**  |  John William Boich Public School 
 
 ## My Skills
 ### Languages
