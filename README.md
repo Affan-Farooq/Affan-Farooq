@@ -18,10 +18,11 @@
 - ⚡ Fun fact(s): **I am fond of reading, running, philosophy, and solving novel & nuanced challenges!**
 - 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
 
-## Experience
+## Experience & Achievements
 - **Design Team Member**  |  Queen's Data Analytics Association - [QDAA](https://qdaa.github.io)
 - **Full Stack Engineering Intern**  |  Cooddle, Incorporated
 - **Secondary Education Coding Mentor**  |  Waterdown District High School
+- **First Place, Waterloo Gauss Math Contest**  |  John William Boich Public School
 
 ## My Skills
 ### Languages
