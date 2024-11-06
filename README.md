@@ -63,3 +63,5 @@
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/) &nbsp;
 [![HackerRank](https://img.shields.io/badge/-HackerRank-1C5F39?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/) &nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2B2E3A?logo=electron&logoColor=fff)](https://www.youtube.com/)
+
+[![](https://visitcount.itsvg.in/api?id=Affan-Farooq&icon=0&color=0)](https://visitcount.itsvg.in)
