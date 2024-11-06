@@ -14,7 +14,7 @@
 - 📱 My interests: **full stack engineering, DevOps, cloud computing, distributed systems, AI/ML, and data science**.
     - 👨‍💻 Currently working on a Distributed Smart Inventory Optimization Platform (**DSIOP**). 
 
-- 💡 I’m **looking to collaborate** on open-source initiatives.  
+- 💡 I’m **looking to collaborate** on open-source initiatives & innovate in practical, impactful tech solutions.  
 - ⚡ Fun fact(s): **I am fond of reading, running, philosophy, and solving novel & nuanced challenges!**
 - 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
 
