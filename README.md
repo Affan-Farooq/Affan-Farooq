@@ -11,7 +11,9 @@
 - 🧠 I'm interested in learning about software engineering and the mathematical theory behind contemporary computation!
     - 🖋️ Currently learning how probabilistic data structures, like Bloom filters, enable efficiency in distributed systems. 
 
-- 📱 My interests: **full stack engineering, DevOps, cloud computing, distributed systems, AI/ML, and data science**.  
+- 📱 My interests: **full stack engineering, DevOps, cloud computing, distributed systems, AI/ML, and data science**.
+    - 👨‍💻 Currently working on a Distributed Smart Inventory Optimization Platform (DSIOP). 
+  
 - ⚡ Fun fact(s): **I am fond of reading, running, philosophy, and solving novel & nuanced challenges!**
 - 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
 
