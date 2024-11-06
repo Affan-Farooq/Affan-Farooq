@@ -1,5 +1,3 @@
-# Hello, World! 🌍
-
 ![GitHub Profile README.md Banner](GitHubBanner.svg)
 
 ## About Me
