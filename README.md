@@ -1,4 +1,6 @@
-# Hello, I'm Affan! 👋
+# Hello, World!🌍
+
+![GitHub Profile README.md Banner](GitHubBanner.svg)
 
 ## About Me
 - 🌱 I'm an **undergraduate student of Computer Science, specializing in Software Design at Queen's School of Computing**.
