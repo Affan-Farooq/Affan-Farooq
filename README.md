@@ -75,4 +75,9 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2B2E3A?logo=electron&logoColor=fff)](https://www.youtube.com/)
 
 ## Miscellaneous
-<img src="highlights.png" alt="Highlights" width="200" height="50">
+<div>
+    <img src="highlights.png" alt="Highlights" width="200" height="50"> <br>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=affanfarooq&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Profile Views">
+    </a>
+</div>
