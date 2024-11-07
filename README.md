@@ -75,3 +75,4 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2B2E3A?logo=electron&logoColor=fff)](https://www.youtube.com/)
 
 ## Miscellaneous
+[![](https://visitcount.itsvg.in/api?id=affanfarooq&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
