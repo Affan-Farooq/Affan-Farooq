@@ -75,4 +75,4 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2B2E3A?logo=electron&logoColor=fff)](https://www.youtube.com/)
 
 ## Miscellaneous
-![Alt text](highlights.png)
+<img src="highlights.png" alt="Highlights" width="200" height="50">
