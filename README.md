@@ -76,7 +76,7 @@
 
 ## Miscellaneous
 <div>
-    <img src="highlights.png" alt="Highlights" width="200" height="50"> <br>
+    <img src="highlights2.png" alt="Highlights" width="200" height="50"> <br>
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=affanfarooq&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Profile Views">
     </a>
