@@ -69,7 +69,7 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/affanfarooq/) &nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2B2E3A?logo=electron&logoColor=fff)](https://www.youtube.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2B2E3A?logo=electron&logoColor=fff)](https://www.affanfarooq.io/)
 
 ## Miscellaneous
 <div>
