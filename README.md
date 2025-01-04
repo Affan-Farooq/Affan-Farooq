@@ -20,7 +20,7 @@
 
 ## Experience & Achievements
 - **Data Scientist**  |  Queen's Data Analytics Association - [QDAA](https://qdaa.github.io)
-- **Software Engineering Intern**  |  Cooddle, Incorporated
+- **Software Development Engineer Intern**  |  Cooddle, Incorporated
 - **Secondary Education Coding Mentor**  |  Waterdown District High School
 - **First Place, Waterloo Gauss Math Contest**  |  John William Boich Public School
 - **Awarded Bronze, Halton Cross Country Meet**  |  John William Boich Public School 
