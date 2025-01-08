@@ -19,7 +19,7 @@
 - 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
 
 ## Experience & Achievements
-- **Data Scientist**  |  Queen's Data Analytics Association - [QDAA](https://qdaa.github.io)
+- **Data Analyst**  |  Queen's Data Analytics Association - [QDAA](https://qdaa.github.io)
 - **Software Development Engineer Intern**  |  Cooddle, Incorporated
 - **Secondary Education Coding Mentor**  |  Waterdown District High School
 - **First Place, Waterloo Gauss Math Contest**  |  John William Boich Public School
