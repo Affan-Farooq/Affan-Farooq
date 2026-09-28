@@ -7,7 +7,7 @@
     - 🏫 Degree: Bachelor of Computing Honours (BcmpH)
     - 📚 Relevant Coursework: **DSA, Theory of Computation, Software Architecture, OS, SQA, Discrete Math, Etc**. 
  <!-- -->
-- 🤔 I'm currently seeking a 12- to 16-month internship, with availability to start as early as January 2025 or in May 2025!
+- 🤔 I'm currently seeking a full-time position, with availability to start as early as Summer 2027!
 - 🧠 I'm interested in learning about software engineering and the mathematical theory behind contemporary computation!
     - 🖋️ Currently learning how probabilistic data structures, like **Bloom filters**, enable efficiency in distributed systems. 
  <!-- -->
@@ -16,14 +16,15 @@
  <!-- -->
 - 💡 I’m **looking to collaborate** on open-source initiatives & innovate in practical, impactful tech solutions!  
 - ⚡ Fun fact(s): **I am fond of reading, running, philosophy, and solving novel & nuanced challenges!**
-- 📫 How to reach me: **[22maf@queensu.ca](mailto:22maf@queensu.ca)**
+- 📫 How to reach me: **[affan.farooq@gmail.com](mailto:affan.farooq@gmail.com)**
 
 ## Experience & Achievements
+- **Application Developer**  |  Coursify
+- **Software Developer Intern**  |  Intact Financial
 - **Data Analyst**  |  Queen's Data Analytics Association - [QDAA](https://qdaa.github.io)
 - **Software Development Engineer Intern**  |  Cooddle, Incorporated
 - **Secondary Education Coding Mentor**  |  Waterdown District High School
 - **First Place, Waterloo Gauss Math Contest**  |  John William Boich Public School
-- **Awarded Bronze, Halton Cross Country Meet**  |  John William Boich Public School 
 
 ## My Skills
 ### Languages
@@ -69,7 +70,6 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/affanfarooq/) &nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-2B2E3A?logo=electron&logoColor=fff)](https://www.affanfarooq.dev/)
 
 ## Miscellaneous
 <div>
